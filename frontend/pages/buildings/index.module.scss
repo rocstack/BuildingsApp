@@ -1,0 +1,28 @@
+.Container {
+	height: 100%;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+	grid-template-rows: 5% 95%;
+  grid-template-areas: 
+	"optionsbar optionsbar optionsbar optionsbar"
+	"buildinglist buildinglist map map";
+
+	.OptionsBar {
+		grid-area: optionsbar;
+		border-bottom: 1px solid $divider-light;
+		
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.BuildingList {
+		grid-area: buildinglist;
+		border-bottom: 1px solid $divider;
+	}
+
+	.Map {
+		grid-area: map;
+		border-bottom: 1px solid $divider;
+	}
+}

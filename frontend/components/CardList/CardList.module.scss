@@ -1,0 +1,12 @@
+.CardList {
+	display: flex;
+	padding: 20px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	height: 100%;
+	overflow-y: scroll;
+}
+
+.CardList::-webkit-scrollbar {
+  display: none;
+}

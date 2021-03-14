@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Bauhaus Archive",
+    "address": "345 Woodland Rd. asd 123",
+    "users": 11,
+    "offices": 1,
+    "cardImgUrl": "https://i.pinimg.com/originals/5b/74/b6/5b74b64faa3fffa6381537b050eedc28.jpg"
+  },
+  {
+    "name": "Lotus Temple",
+    "address": "11 sadsad",
+    "users": 123,
+    "offices": 5,
+    "cardImgUrl": "https://www.aceee.org/files/image/topics/office_building.jpg"
+  },
+  {
+    "name": "Dome of the Rock",
+    "address": "1231 43gg",
+    "users": 2,
+    "offices": 1,
+    "cardImgUrl": "https://killadoor89.files.wordpress.com/2011/02/building-31.jpg"
+  },
+  {
+    "name": "Lloyd's Building",
+    "address": "1111 dd",
+    "users": 123,
+    "offices": 7,
+    "cardImgUrl": "https://hips.hearstapps.com/wdy.h-cdn.co/assets/cm/15/08/480x283/54eaa0a714798_-_03-wd1109-asymmetrical-buildings-2.jpg"
+  },
+  {
+    "name": "Dome of the 21",
+    "address": "1331 dfg",
+    "users": 7777,
+    "offices": 177,
+    "cardImgUrl": "https://www.ageradora.com.br/wp-content/uploads/2014/02/commercial-building-1.png"
+  },
+  {
+    "name": "something2",
+    "address": "11435 kf",
+    "users": 78,
+    "offices": 4,
+    "cardImgUrl": "https://www.facilitiesnet.com/resources/editorial/2018/Intelligent-Buildings.jpeg"
+  },
+  {
+    "name": "something2",
+    "address": "11 ff00",
+    "users": 66,
+    "offices": 1,
+    "cardImgUrl": "https://www.ageradora.com.br/wp-content/uploads/2014/02/commercial-building-1.png"
+  },
+  {
+    "name": "something2",
+    "address": "11 aaa",
+    "users": 22,
+    "offices": 1,
+    "cardImgUrl": "https://www.facilitiesnet.com/resources/editorial/2018/Intelligent-Buildings.jpeg"
+  },
+  {
+    "name": "something2",
+    "address": "11435 kf",
+    "users": 78,
+    "offices": 4,
+    "cardImgUrl": "https://www.facilitiesnet.com/resources/editorial/2018/Intelligent-Buildings.jpeg"
+  },
+  {
+    "name": "something2",
+    "address": "11 ff00",
+    "users": 66,
+    "offices": 1,
+    "cardImgUrl": "https://www.ageradora.com.br/wp-content/uploads/2014/02/commercial-building-1.png"
+  },
+  {
+    "name": "something2",
+    "address": "11 aaa",
+    "users": 22,
+    "offices": 1,
+    "cardImgUrl": "https://www.facilitiesnet.com/resources/editorial/2018/Intelligent-Buildings.jpeg"
+  }
+]

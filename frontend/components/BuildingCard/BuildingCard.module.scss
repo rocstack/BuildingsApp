@@ -1,0 +1,13 @@
+.BuildingCard {
+	.Title {
+		font-weight: 600;
+	}
+	.Body {
+		color: $light;
+		.Bottom {
+			display: flex;
+			justify-content: space-between;
+			margin: 20px 0;
+		}
+	}
+}
